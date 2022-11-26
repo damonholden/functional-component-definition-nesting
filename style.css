@@ -1,0 +1,34 @@
+* {
+  font-family: monospace;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
+#parent {
+  background-color: pink;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+#child {
+  background-color: rgb(190, 252, 98);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+body {
+  background-color: grey;
+}
+
+dl {
+  font-size: large;
+}
+
+dd {
+  font-weight: bold;
+}
